@@ -1,2 +1,2 @@
 # JDBCExamples
-A couple of basic examples of using jdbc
+A couple of basic examples using jdbc represented in test foulder ExamplesTest.java
